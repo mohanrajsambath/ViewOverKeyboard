@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewOverKeyboard</string>
+    <string name="longtext">As we already know that recyclerView has a smooth scrolling by itself but when we need to put recyclerView within any scrollView it will not work like the below code snippet. Now what kinda problem occurred when we used nestedScrollView and put recyclerView inside nestedScrollView, it scrolls at various speeds depending on gestures. The scrolling feature will not be smooth.</string>
+    <string name="enter_your_comments">enter your comments</string>
+    <string name="don_t_see_your_contact"><![CDATA[Don’t see your contact? \n Add new contact info & send]]></string>
+</resources>
